@@ -1,13 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "Cristian David ",
-      "email": "asdf@asdf.com",
-      "telefono": "123456",
-      "empresa": "U de Manizales",
-      "id": 1
-    },
-    {
       "nombre": "Cristian Gutierrez",
       "email": "profe@profe.com",
       "telefono": "123456",
