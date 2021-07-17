@@ -1,3 +1,11 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "nombre": "Cristian David ",
+      "email": "asdf@asdf.com",
+      "telefono": "123456",
+      "empresa": "U de Manizales",
+      "id": 1
+    }
+  ]
 }
