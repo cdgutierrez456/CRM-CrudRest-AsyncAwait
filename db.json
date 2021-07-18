@@ -1,10 +1,10 @@
 {
   "clientes": [
     {
-      "nombre": "Cristian David ",
-      "email": "asdf@asdf.com",
-      "telefono": "123456",
-      "empresa": "U de Manizales",
+      "nombre": "undefined",
+      "email": "undefined@asdf.com",
+      "telefono": "undefined",
+      "empresa": "undefined",
       "id": 1
     },
     {
@@ -13,6 +13,13 @@
       "telefono": "4321",
       "empresa": "U de Manizales",
       "id": 2
+    },
+    {
+      "nombre": "Cristian David ",
+      "email": "asdf@asdf.com",
+      "telefono": "123456",
+      "empresa": "U de Manizales",
+      "id": 3
     }
   ]
 }
